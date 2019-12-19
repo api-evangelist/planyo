@@ -1,0 +1,63 @@
+{
+    "name": "planyo",
+    "description": "Planyo is a flexible online reservation system \/ booking software for any business which needs scheduling and managing their bookings.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/637-planyo.jpg",
+    "tags": [
+        "bookings",
+        "have api",
+        "hotels",
+        "marketplaces",
+        "reservations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/planyo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "planyo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/637-planyo.jpg",
+            "humanURL": "http:\/\/www.planyo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/planyo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.planyo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.planyo.com\/whatsnew.php"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.planyo.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/planyo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pixmac"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/planyocom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/planyo"
+        }
+    ]
+}
